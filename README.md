@@ -1,2 +1,2 @@
 # dictionary
-dictionary using html css anda javascript and a api 
+dictionary using html css and javascript and  api 
